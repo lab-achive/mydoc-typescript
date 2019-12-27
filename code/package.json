@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "tslint-config-airbnb": "^5.11.2",
+    "typescript-tslint-plugin": "^0.5.5"
+  }
+}
