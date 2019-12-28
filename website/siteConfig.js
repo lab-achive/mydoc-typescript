@@ -25,7 +25,7 @@ const siteConfig = {
   markdownPlugins: [
     function(md) {
       extlink(md, {
-        host: 'www.unimits.com', // The hrefs that you DON'T want to be external
+        host: 'mydoc-ne-ts.unimits.com', // The hrefs that you DON'T want to be external
       });
     },
   ],
@@ -46,7 +46,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: '01开始/01项目初始化', label: 'TypeScript'},
+    {doc: '01开始/02文档规范', label: '开始'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
