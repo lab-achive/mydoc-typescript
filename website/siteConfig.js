@@ -29,16 +29,16 @@ const siteConfig = {
       });
     },
   ],
-  title: 'UNIMITS', // Title for your website.
+  title: 'TypeScript', // Title for your website.
   tagline: 'v3.7.0',
-  url: 'https://www.unimits.com', // Your website URL
+  url: 'https://ts.unimits.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'unimits-docs',
+  projectName: 'mydoc-typescript',
   organizationName: 'unimits',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
