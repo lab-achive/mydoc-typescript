@@ -47,9 +47,9 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: '01开始/02文档规范', label: '开始'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: '01开始/02文档规范', label: '官方文档'},
+    // {page: 'help', label: 'Help'},
+    // {blog: false, label: 'Blog'},
   ],
 
   // If you have users set above, you add it here:
