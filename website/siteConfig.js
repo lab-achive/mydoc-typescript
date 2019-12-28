@@ -31,7 +31,7 @@ const siteConfig = {
   ],
   title: 'TypeScript', // Title for your website.
   tagline: 'v3.7.0',
-  url: 'https://ts.unimits.com', // Your website URL
+  url: 'https://mydoc-typescript.unimits.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
