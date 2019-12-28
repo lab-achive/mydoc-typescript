@@ -29,7 +29,7 @@ const siteConfig = {
       });
     },
   ],
-  title: 'TypeScript文档', // Title for your website.
+  title: 'TypeScript', // Title for your website.
   tagline: 'v3.7.0',
   url: 'https://mydoc-ne-ts.unimits.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
