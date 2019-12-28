@@ -30,7 +30,7 @@ const siteConfig = {
     },
   ],
   title: 'TypeScript', // Title for your website.
-  tagline: 'v3.7.0',
+  tagline: 'v0.1',
   url: 'https://mydoc-ne-ts.unimits.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -47,7 +47,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: '01开始/02文档规范', label: '开始'},
-    {doc: '01开始/02文档规范', label: '官方文档'},
+    {doc: '02官方文档/v3.7/00文档说明/01历史版本_v3.7', label: '官方文档'},
     // {page: 'help', label: 'Help'},
     // {blog: false, label: 'Blog'},
   ],
