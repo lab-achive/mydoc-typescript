@@ -47,7 +47,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: '01开始/02文档规范', label: '开始'},
-    {doc: '02官方文档/v3.7/00文档说明/01历史版本_v3.7', label: '官方文档'},
+    {doc: '02官方文档/v3.7/00文档说明/02文档约定_v3.7', label: '官方文档'},
     // {page: 'help', label: 'Help'},
     // {blog: false, label: 'Blog'},
   ],
