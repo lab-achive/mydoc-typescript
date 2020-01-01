@@ -35,4 +35,4 @@ let x = {
 }
 
 let squareOptions = { x: 1 };
-let mySquare = createSquare(squareOptions);
+// let mySquare = createSquare(squareOptions);
