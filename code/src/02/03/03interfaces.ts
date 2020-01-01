@@ -29,5 +29,10 @@ function createSquare(config: SquareConfig): {color: string; area: number} {
   return newSquare;
 }
 
-let mySquare = createSquare({ color: "black" });
-console.log(mySquare);
+let x = {
+  width: 1,
+  a: 100
+}
+
+let squareOptions = { x: 1 };
+let mySquare = createSquare(squareOptions);
