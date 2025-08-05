@@ -25,20 +25,20 @@ const siteConfig = {
   markdownPlugins: [
     function(md) {
       extlink(md, {
-        host: 'mydoc-ne-ts.unimits.com', // The hrefs that you DON'T want to be external
+        host: 'doc.ts1cn.kuibot.com', // The hrefs that you DON'T want to be external
       });
     },
   ],
   title: 'TypeScript', // Title for your website.
   tagline: 'v0.1',
-  url: 'https://mydoc-ne-ts.unimits.com', // Your website URL
+  url: 'https://doc.ts1cn.kuibot.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'mydoc-ne-ts',
+  projectName: '',
   organizationName: 'unimits',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
